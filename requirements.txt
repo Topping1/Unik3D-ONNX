@@ -1,0 +1,6 @@
+gradio>=4.0
+onnxruntime      # or onnxruntime-gpu
+trimesh
+pillow
+numpy
+open3d
